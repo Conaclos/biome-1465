@@ -1,0 +1,16 @@
+{
+	"files": {
+		"ignoreUnknown": true
+	},
+	"formatter": {
+		"ignore": ["tests"]
+	},
+	"linter": {
+		"enabled": false
+	},
+	"vcs": {
+		"enabled": true,
+		"clientKind": "git",
+		"useIgnoreFile": true
+	}
+}
