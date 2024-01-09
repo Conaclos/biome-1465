@@ -3,7 +3,7 @@
 		"ignoreUnknown": true
 	},
 	"formatter": {
-		"ignore": ["tests"]
+		"ignore": ["./tests/**/*"]
 	},
 	"linter": {
 		"enabled": false
